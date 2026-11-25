@@ -1,0 +1,19 @@
+name = "print-pronto-data"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+workers_dev = false
+
+# Optional: serve on your own hostname (replace the placeholder).
+# [[routes]]
+# pattern = "data.example.com"
+# custom_domain = true
+
+# Optional: private counts of embed loads by referring site.
+# Without this binding the worker runs fine; counting is skipped.
+# Create the table with the SQL in schema.sql.
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "YOUR_DATABASE_NAME"
+# database_id = "YOUR_D1_DATABASE_ID"
+#
+# Optional secret for the private /embed/stats endpoint (set with `wrangler secret put STATS_KEY`).

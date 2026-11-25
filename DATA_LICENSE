@@ -1,0 +1,21 @@
+DATA LICENSE: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Applies to: index.csv, src/data.js (the data rows), and the data served at
+https://data.printpronto.com/ (index.json, index.csv, MCP tool results).
+The code in this repository is covered separately by LICENSE (MIT).
+
+Data: Print Pronto US Sticker & Label Price Index, November 2026
+Copyright (c) 2026 Print Pronto
+
+You are free to share and adapt the data for any purpose, including
+commercially, if you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Required credit (use this text with the link):
+  Source: Print Pronto US Sticker & Label Price Index, November 2026.
+  https://printpronto.com/custom-sticker-pricing
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+The data is provided as is, without warranty of any kind.
